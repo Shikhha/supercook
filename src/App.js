@@ -10,9 +10,9 @@ export default class App extends Component {
   state = {
     recipes: recipes,
     url:
-      "https://www.food2fork.com/api/search?key=ddbcb0dab19abf84d962c287b1e775e9",
+      "https://www.food2fork.com/api/search?key=9ff2a67fc62a50637e9f24bd139baaa9",
     base_url:
-      "https://www.food2fork.com/api/search?key=ddbcb0dab19abf84d962c287b1e775e9",
+      "https://www.food2fork.com/api/search?key=9ff2a67fc62a50637e9f24bd139baaa9",
     details_id: "",
     pageIndex: 1,
     search: "",
