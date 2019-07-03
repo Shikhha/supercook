@@ -13,7 +13,7 @@ export default class RecipeList extends Component {
         />
         <div className="container  my-5 pt-2">
           <div className="row">
-            <div className=" mb-5 col-10 mx-auto col-md-6 text-center">
+            <div className=" mb-5 col-12 mx-auto col-md-6 text-center">
               <h1 className=" recipe-list-text text-slanted">
                 <i className=" material-icons">arrow_right</i>Super Recipe's{" "}
                 <i className=" material-icons">arrow_left</i>
